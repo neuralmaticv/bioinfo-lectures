@@ -35,6 +35,8 @@ Chaurasiya, D.; Mondal, R.; Lahiri, T.; Tripathi, A.; Ghinmine, T. IDPpred: A ne
 
 **Presentation (in Serbian):** `presentation/idppred_analiza.pdf` 
 
+**Code:** `code/idppred.ipynb`
+
 --- 
 
 **Disclaimer:** This repository is for educational purposes.
